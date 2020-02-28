@@ -1,0 +1,2 @@
+audio_00.wav: https://freesound.org/people/suntemple/sounds/253172/
+audio_01.wav: https://freesound.org/people/suntemple/sounds/253177/

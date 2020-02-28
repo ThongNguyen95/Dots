@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="370f9ac4-f3a7-43bb-a7f5-d016df9208c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YDzCElNPXr6gRU16VfFfO1bzC1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\game-project" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="370f9ac4-f3a7-43bb-a7f5-d016df9208c2" name="Default Changelist" comment="" />
+      <created>1582491823864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582491823864</updated>
+      <workItem from="1582491825116" duration="6529000" />
+      <workItem from="1582514352699" duration="15216000" />
+      <workItem from="1582578668896" duration="284000" />
+      <workItem from="1582578957303" duration="4654000" />
+      <workItem from="1582593133786" duration="1294000" />
+      <workItem from="1582597563875" duration="1934000" />
+      <workItem from="1582608309767" duration="9973000" />
+      <workItem from="1582619078838" duration="1172000" />
+      <workItem from="1582621035237" duration="2052000" />
+      <workItem from="1582660944042" duration="11012000" />
+      <workItem from="1582679200926" duration="27949000" />
+      <workItem from="1582747432818" duration="1363000" />
+      <workItem from="1582758128624" duration="1924000" />
+      <workItem from="1582762406231" duration="331000" />
+      <workItem from="1582765149208" duration="4798000" />
+      <workItem from="1582775126880" duration="2679000" />
+      <workItem from="1582779287124" duration="11847000" />
+      <workItem from="1582833753006" duration="10544000" />
+      <workItem from="1582858910805" duration="10266000" />
+      <workItem from="1582869400742" duration="11403000" />
+      <workItem from="1582883954396" duration="371000" />
+      <workItem from="1582917992904" duration="8673000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1446" y="354" key="FileChooserDialogImpl" timestamp="1582578954500">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1446" y="354" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1582578954500" />
+    <state x="1062" y="116" width="1094" height="1200" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582875094983">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1062" y="116" width="1094" height="1200" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1582875094983" />
+    <state x="1716" y="379" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582609048801">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1716" y="379" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1582609048801" />
+    <state x="976" y="298" width="607" height="804" key="find.popup" timestamp="1582875198323">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="976" y="298" width="607" height="804" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1582875198323" />
+    <state x="1360" y="319" width="672" height="678" key="search.everywhere.popup" timestamp="1582869710491">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1360" y="319" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1582869710490" />
+  </component>
+</project>
